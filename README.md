@@ -1,1 +1,1 @@
-This repository is used to host my professionals references. 
+This repository is used to host my references. 
